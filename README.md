@@ -48,7 +48,7 @@ This project analyzes sales data using Python to understand revenue trends, prod
 This project helped me practise data analysis using Python, Pandas, and Matplotlib, including data validation, sales aggregation, and visualization.
 
 ## Acknowledgement
-This project is based on a beginner-friendly sales data analysis project. Original source and attribution should be retained here: [add the original GitHub repository URL].
+This project is based on a beginner-friendly sales data analysis project. Original source and attribution should be retained here: [https://github.com/Ishika337/sales-data-analysis-python].
 
 ## Disclaimer
 This is a learning project. Findings should be verified against the dataset before being used for business decisions.
