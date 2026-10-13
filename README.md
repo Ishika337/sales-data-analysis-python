@@ -29,8 +29,32 @@ This project analyzes sales data using Python to understand revenue trends, prod
 - Data visualization
 - Interpreting business insights
 
+
+## Data Quality Checks
+
+- Checked for missing values in each column.
+- Checked for duplicate rows.
+- Reviewed data types and numerical summaries.
+
+## How to Run
+
+1. Download the notebook and `sales_data.csv` from this repository.
+2. Open the notebook in Google Colab.
+3. Upload `sales_data.csv` to the Colab session if required.
+4. Run the notebook cells in order.
+
+## Project Learning
+
+This project helped me practise data analysis using Python, Pandas, and Matplotlib, including data validation, sales aggregation, and visualization.
+
 ## Acknowledgement
 This project is based on a beginner-friendly sales data analysis project. Original source and attribution should be retained here: [add the original GitHub repository URL].
 
 ## Disclaimer
 This is a learning project. Findings should be verified against the dataset before being used for business decisions.
+
+
+
+
+
+
